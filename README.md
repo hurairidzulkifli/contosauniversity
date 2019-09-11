@@ -1,6 +1,6 @@
 # Project Title
 
-Contosa University ASP.NET MVC ith basic CRUD functionality using Entity Framework
+Contosa University ASP.NET MVC with basic CRUD functionality using Entity Framework
 
 ## Built With
 
